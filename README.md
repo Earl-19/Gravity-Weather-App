@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gravity_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Gravity-Weather-App
+>>>>>>> 7f31be270f3b035cfd9c5e8e5338eab53abc4750
